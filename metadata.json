@@ -1,0 +1,6 @@
+{
+  "name": "KIDSERVER Monitor - Sistem Monitoring Server & Proyek Kelas 7",
+  "description": "Dasbor pemantauan performa server real-time, pelacakan progres proyek siswa kelas 7 dengan sistem poin 100%, dan notifikasi otomatis pencapaian target.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
